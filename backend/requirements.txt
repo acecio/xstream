@@ -1,0 +1,6 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+xhamster_api
+lxml
+httpx[http2]
+beautifulsoup4
